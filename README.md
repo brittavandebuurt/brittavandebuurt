@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brittavandebuurt
+- 👀 I’m interested in optimization and operations research applied to problems with societal impact
+- 🌱 I’m currently writing a masterthesis about optimization using python
+- 💞️ I’m looking to collaborate on nothing specific yet
+- 📫 How to reach me ... even I dont know how to reach me!
